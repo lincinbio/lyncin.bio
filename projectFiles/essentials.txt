@@ -1,0 +1,29 @@
+email:lyncinbio@gmail.com
+password:default 
+
+UX link : https://www.figma.com/file/dVl1QHoAEUZfZRTGqkL4i1/lyncinbio?node-id=0%3A1
+
+database link :
+
+flowdiagram : https://drive.google.com/file/d/1n8QQbURkXRJHiU9C6UfS4e3lO2y2RWKc/view?usp=sharing
+
+/************************************************************************/
+
+###################
+## For free user ## 
+###################
+1. 5 social media links 
+2. One youtube chanel which holds upto 10 video links 
+3. custom dp
+4. random number in to identify url/63828272 
+
+#######################
+## For paid teir one ##
+#######################
+1. statistics of click one each link
+2. direct call button / whatsapp
+3. custom background
+4. custom db 
+5. 50 links 
+6. unlimited youtube links 
+7. dedicated user name to identify url/vivek

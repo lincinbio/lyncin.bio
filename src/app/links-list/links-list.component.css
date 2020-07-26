@@ -1,0 +1,84 @@
+.layout {
+  position: absolute;
+  top: 45%;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+.link-area {
+  position: relative;
+  width: 350px;
+  height: 73px;
+  left: 0px;
+  top: 0px;
+  margin-top: 24px;
+
+  background: linear-gradient(90deg, #fbd3e9 0%, #f7626a 58.85%, #fb0404 100%);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+}
+
+.youtube-link-area {
+    position: relative;
+    width: 350px;
+    height: 73px;
+    left: 0px;
+    top: 0px;
+    margin-top: 24px;
+  
+    background: linear-gradient(90deg, #fbd3e9 0%, #f7626a 58.85%, #fb0404 100%);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+  }
+
+.link-area:active {
+  box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.25);
+}
+
+.youtube-link-area:active {
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.25);
+    border-radius: 20px 20px 0px 0px;
+  }
+
+.expanded-yt {
+    position: relative;
+    width: 350px;
+    height: 73px;
+    left: 0px;
+    top: 0px;
+    margin-top: 24px;
+  
+    background: linear-gradient(90deg, #fbd3e9 0%, #f7626a 58.85%, #fb0404 100%);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px 20px 0px 0px;
+}
+
+.line {
+  position: relative;
+  width: 70px;
+  height: 0px;
+  left: 60px;
+  top: 35px;
+
+  border: 1px solid #000000;
+  transform: rotate(90deg);
+}
+
+.icon-area {
+  position: absolute;
+  left: 3%;
+  top: 20%;
+}
+
+.expanded-youtube {
+  position: absolute;
+  width: 350px;
+  height: 300px;
+  left: 0%;
+  top: 33.5%;
+
+  background: #fffdfd;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 0px 0px 20px 20px;
+  z-index: 30;
+}

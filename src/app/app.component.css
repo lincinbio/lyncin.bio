@@ -1,0 +1,40 @@
+.layout {
+  width: 100%;
+}
+
+.user-name {
+  position: absolute;
+  width: 87px;
+  height: 30px;
+  left: 40%;
+  top: 37%;
+
+  font-family: "sensation_light";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 29px;
+  line-height: 32px;
+
+  color: #000000;
+}
+
+.create-user-link {
+  position: absolute;
+  width: 117px;
+  height: 19px;
+  left: 35%;
+  top: 90%;
+
+  font-family: "Quicksand";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 19px;
+  /* identical to box height */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #150194;
+}

@@ -1,0 +1,38 @@
+.layout {
+  position: relative;
+  width: 137px;
+  height: 138px;
+  left: 33%;
+  top: 136px;
+  background:url(src/assets/dp.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: normal;
+  border-radius: 100px;
+}
+
+.edit-profile-pic {
+  position: relative;
+  width: 136px;
+  height: 68px;
+  left: 0px;
+  top: 70px;
+
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0) 0%,
+    rgba(129, 129, 129, 0.509434) 13.54%,
+    rgba(91, 91, 91, 0.662338) 25%,
+    #070707 93.75%
+  );
+  border-radius: 0px 0px 100px 100px;
+}
+
+.camera-icon {
+  position: relative;
+  width: 32px;
+  height: 28px;
+  left: 55px;
+  top: 20px;
+}
