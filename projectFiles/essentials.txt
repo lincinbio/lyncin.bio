@@ -27,3 +27,11 @@ flowdiagram : https://drive.google.com/file/d/1n8QQbURkXRJHiU9C6UfS4e3lO2y2RWKc/
 5. 50 links 
 6. unlimited youtube links 
 7. dedicated user name to identify url/vivek
+
+
+font :  1.Saira
+        2.Sansation Light
+
+
+url translator : 
+        1 .https://app.urlgeni.us/

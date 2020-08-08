@@ -1,6 +1,6 @@
 <div class="layout">
   <!-- <p>link herelink herelink herelink herelink herelink herelink herelink herelink herelink herelink herelink herelink herelink herelink here </p> -->
-  <div class="youtube-link-area" (click)="expandYt()" [ngClass]="expandYT ? 'expanded-yt' : 'youtube-link-area'">
+  <!-- <div class="youtube-link-area" (click)="expandYt()" [ngClass]="expandYT ? 'expanded-yt' : 'youtube-link-area'">
     <div class="icon-area">
       <span
         class="iconify"
@@ -14,9 +14,9 @@
   </div>
   <div class="expanded-youtube" *ngIf="expandYT">
 
-  </div>
+  </div> -->
 
-  <div class="link-area">
+  <div class="link-area-insta" (click)="navigate('insta');">
     <div class="icon-area">
       <svg
         width="51"
@@ -38,11 +38,11 @@
         </defs>
       </svg>
     </div>
-
-    <div class="line"></div>
+    <div class="link-name">Instagram</div>
+    <!-- <div class="line"></div> -->
   </div>
 
-  <div class="link-area">
+  <div class="link-area-fb" (click)="navigate('fb');">
     <div class="icon-area">
       <svg
         width="51"
@@ -64,7 +64,15 @@
         </defs>
       </svg>
     </div>
+    <div class="link-name">Facebook</div>
+    <!-- <div class="line"></div> -->
+  </div>
 
-    <div class="line"></div>
+  <div class="link-area-wp" (click)="navigate('wp');">
+    <div class="icon-area" style="top:3px;">
+    <span class="iconify" data-inline="false" data-icon="bx:bxl-whatsapp" style="font-size: 69px;"></span>
+    </div>
+    <div class="link-name">Whatsapp</div>
+    <!-- <div class="line"></div> -->
   </div>
 </div>
